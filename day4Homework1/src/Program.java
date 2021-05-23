@@ -19,7 +19,7 @@ public class Program {
 		     neroCustomer.Save(customer2);// yili yanlis vermemize ragmen veri tabanina kaydedilir.
 		     
 		     // starbuck icin ad soyad ve T.C. kimlik no degerlerinin dogru girilmesi durumunda program calisacaktir.
-		     // nero icin veriler yanlis girilse bile soruj cikmayacaktir.
+		     // nero icin veriler yanlis girilse bile sorun cikmayacaktir.
 		    
 		    
 		}
